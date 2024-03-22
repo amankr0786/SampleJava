@@ -1,7 +1,7 @@
 // Your First Program
 
 class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+    public static void mai() {
+        System.out.println("Hey inside m1()"); 
     }
 }
